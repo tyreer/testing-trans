@@ -1,0 +1,21 @@
+{
+    "404": {
+        "title": "404",
+        "text": "O seu relatório de prova personalizado está pronto, mas ocorreu um erro. Tente novamente mais tarde."
+    },
+    "landing_page": {
+        "title": "O seu relatório de prova",
+        "subtitle": "Faça o login para ver os seus resultados em um video",
+        "cta": "Assista ao seu vídeo",
+        "disclaimer_button": "Privacidade",
+        "join": "Inscreva-se no Strava",
+        "disclaimer": "Neste resumo das suas provas o Strava incluirá dados de atividades públicas e privadas que você carregou nas últimas 16 semanas.",
+        "privacy_policy": "Para maiores informações leia a nossa política de privacidade.",
+        "header": "O seu relatório de prova"
+    },
+    "landing_page_logged_out": {
+        "race_report_2018": "Relatório de Prova 2018",
+        "title": "O seu relatório de prova",
+        "body": "O seu relatório de prova personalizado agora pode ser criado, mas primeiro precisamos verificar que é você quem está solicitando estas informações. Veja o e-mail que nós te enviamos com um link para que você possa fazer login e assistir ao seu vídeo."
+    }
+}

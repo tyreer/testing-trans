@@ -1,0 +1,21 @@
+{
+    "404": {
+        "title": "404",
+        "text": "O seu relatório de corrida personalizado está pronto para ser criado, mas ocorreu um erro. Tente novamente."
+    },
+    "landing_page": {
+        "title": "O seu relatório de corrida",
+        "subtitle": "Inicie sessão para ver os seus resultados num vídeo",
+        "cta": "Veja o seu vídeo",
+        "disclaimer_button": "Privacidade",
+        "join": "Aderir ao Strava",
+        "disclaimer": "Este resumo da sua corrida no Strava irá incluir dados de atividades públicas e privadas que carregou nas últimas 16 semanas.",
+        "privacy_policy": "Leia a nossa política de privacidade para obter mais informações.",
+        "header": "O seu relatório de corrida"
+    },
+    "landing_page_logged_out": {
+        "race_report_2018": "Relatório de corrida 2018",
+        "title": "O seu relatório de corrida",
+        "body": "O seu relatório de corrida personalizado está pronto para ser criado, mas queremos ter a certeza que é mesmo você antes de lhe mostrarmos as estatísticas. Consulte o seu e-mail e clique no link que lhe enviámos para iniciar sessão e ver o seu vídeo."
+    }
+}

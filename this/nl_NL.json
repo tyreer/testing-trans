@@ -1,0 +1,21 @@
+{
+    "404": {
+        "title": "404",
+        "text": "Je persoonlijke hardloopverslag kan worden samengesteld, maar we hebben een foutmelding ontvangen. Probeer het opnieuw."
+    },
+    "landing_page": {
+        "title": "Je hardloopverslag",
+        "subtitle": "Meld je aan om je prestaties in een video te bekijken.",
+        "cta": "Video bekijken",
+        "disclaimer_button": "Privacy",
+        "join": "Lidmaatschap van Strava",
+        "disclaimer": "Deze Strava-samenvatting van je hardloopsessie bevat gegevens over openbare en privéactiviteiten die je in de afgelopen zestien weken hebt geüpload.",
+        "privacy_policy": "Lees ons Privacybeleid voor meer informatie.",
+        "header": "Je hardloopverslag"
+    },
+    "landing_page_logged_out": {
+        "race_report_2018": "Hardloopverslag 2018",
+        "title": "Je hardloopverslag",
+        "body": "Je persoonlijke hardloopverslag kan worden samengesteld, maar we willen er zeker van zijn dat jij het bent voordat we de statistieken laten zien. Controleer je e-mail voor een link waarmee je je kunt aanmelden en je video kunt bekijken."
+    }
+}

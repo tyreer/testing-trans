@@ -1,0 +1,21 @@
+{
+    "404": {
+        "title": "404",
+        "text": "Dein persönlicher Rennbericht kann jetzt erstellt werden, es ist jedoch ein Fehler aufgetreten. Bitte versuche es noch einmal."
+    },
+    "landing_page": {
+        "title": "Dein Rennbericht",
+        "subtitle": "Melde dich an, um deine Leistungen im Film zu sehen.",
+        "cta": "Sieh dir deinen Film an",
+        "disclaimer_button": "Datenschutz",
+        "join": "Strava-Mitglied werden",
+        "disclaimer": "Diese Zusammenfassung deines Rennens auf Strava enthält Daten von öffentlichen und privaten Aktivitäten, die du innerhalb der letzten 16 Wochen hoch geladen hast.",
+        "privacy_policy": "Weitere Informationen findest du in unserer Datenschutzerklärung.",
+        "header": "Dein Rennbericht"
+    },
+    "landing_page_logged_out": {
+        "race_report_2018": "Rennbericht 2018",
+        "title": "Dein Rennbericht",
+        "body": "Dein persönlicher Rennbericht kann jetzt erstellt werden, aber wir müssen deine Angaben verifizieren, bevor wir deine Statistiken anzeigen können. Bitte überprüfe deine E-Mail. Du erhältst ein Login, mit dem du dir deinen Film ansehen kannst."
+    }
+}

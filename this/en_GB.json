@@ -1,0 +1,21 @@
+{
+    "404": {
+        "title": "404",
+        "text": "Your personalized race report is ready to create, but we've received an error. Please try again."
+    },
+    "landing_page": {
+        "title": "Boom Boom Say..",
+        "subtitle": "Sign in to see your accomplishment in film",
+        "cta": "Watch Your Film",
+        "disclaimer_button": "Privacy",
+        "join": "Join Strava",
+        "disclaimer": "This summary of your race on Strava will include data from public and private activities that you uploaded in the last 16 weeks.",
+        "privacy_policy": "Please read our privacy policy for more information.",
+        "header": "Your Race Report"
+    },
+    "landing_page_logged_out": {
+        "race_report_2018": "Race Report 2018",
+        "title": "Your Race Report",
+        "body": "Your personalized race report is ready to create, but we need make sure it's you before showing your stats. Check your email for a link to log in and watch your film."
+    }
+}

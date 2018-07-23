@@ -1,0 +1,21 @@
+{
+    "404": {
+        "title": "404",
+        "text": "Nous avons tous les éléments pour créer votre rapport de course personnalisé, mais une erreur s'est produite. Veuillez réessayer."
+    },
+    "landing_page": {
+        "title": "Votre rapport de course",
+        "subtitle": "Connectez-vous pour voir vos exploits en vidéo",
+        "cta": "Regarder votre vidéo",
+        "disclaimer_button": "Confidentialité",
+        "join": "Rejoindre Strava",
+        "disclaimer": "Ce résumé de votre course sur Strava inclura les données des activités publiques et privées que vous avez téléchargées au cours des 16 dernières semaines.",
+        "privacy_policy": "Veuillez lire notre politique de confidentialité pour obtenir des informations supplémentaires.",
+        "header": "Votre rapport de course"
+    },
+    "landing_page_logged_out": {
+        "race_report_2018": "Rapport de course 2018",
+        "title": "Votre rapport de course",
+        "body": "Nous avons tous les éléments pour créer votre rapport de course personnalisé, mais avant de vous présenter vos statistiques, nous devons vérifier qu'il s'agit bien de vous et non d'un usurpateur d'identité. Vous trouverez dans votre boîte de réception un e-mail avec un lien qui vous permettra de vous connecter et de regarder votre vidéo."
+    }
+}

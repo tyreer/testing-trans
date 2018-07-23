@@ -1,0 +1,21 @@
+{
+    "404": {
+        "title": "404",
+        "text": "Siamo pronti per creare il tuo rapporto di gara personalizzato ma sono in corso degli interventi sul sito. Ci scusiamo per l'inconveniente e ti chiediamo di riprovare più tardi."
+    },
+    "landing_page": {
+        "title": "Il tuo rapporto di gara",
+        "subtitle": "Registrati per vedere in video i risultati che hai ottenuto",
+        "cta": "Guarda il tuo video",
+        "disclaimer_button": "Privacy",
+        "join": "Iscriviti a Strava",
+        "disclaimer": "Questo riassunto della gara che vedrai su Strava includerà i dati delle attività pubbliche e private che hai caricato nelle ultime 16 settimane.",
+        "privacy_policy": "Per maggiori informazioni puoi leggere la nostra Informativa sulla privacy.",
+        "header": "Il tuo rapporto di gara"
+    },
+    "landing_page_logged_out": {
+        "race_report_2018": "Rapporto di gara 2018",
+        "title": "Il tuo rapporto di gara",
+        "body": "Il tuo rapporto di gara personalizzato sta per essere creato ma prima di mostrarti i tuoi dati dobbiamo essere sicuri che stiamo contattando proprio te. Controlla il link che ti abbiamo inviato tramite email, accedi e guarda il video."
+    }
+}

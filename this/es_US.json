@@ -1,0 +1,21 @@
+{
+    "404": {
+        "title": "404",
+        "text": "Si bien tu informe de carrera personalizado está listo para crearse, hemos recibido un error. Inténtalo nuevamente."
+    },
+    "landing_page": {
+        "title": "Informe de tu carrera",
+        "subtitle": "Inicia sesión para ver tu logro en video",
+        "cta": "Ve tu video",
+        "disclaimer_button": "Privacidad",
+        "join": "Únete a Strava",
+        "disclaimer": "Este resumen de tu carrera en Strava incluirá datos de actividades públicas y privadas que cargaste en las últimas 16 semanas.",
+        "privacy_policy": "Lee nuestra política de privacidad para obtener más información.",
+        "header": "Informe de tu carrera"
+    },
+    "landing_page_logged_out": {
+        "race_report_2018": "¡Su documento, por favor!",
+        "title": "Informe de tu carrera",
+        "body": "El informe personalizado de tu carrera ya se puede generar, pero debemos asegurarnos de confirmar tu identidad antes de mostrar tus estadíscas. Verifica el enlace en tu correo electrónico para inciar sesión y ver tu video."
+    }
+}
